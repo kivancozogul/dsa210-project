@@ -3,11 +3,17 @@
 
 ## Project Overview
 
-In this project, effect of the amount of three point shots taken during the game by evaluating average three point shots taken and average game scores throughout years.This study aims to find if the three point shots affect the game in scorewise.
+In this project, effect of the amount of three point shots taken during the game by evaluating average three point shots taken and average game scores throughout years also this project aims to see if positional 3 point shot attempts have an effect on total game.
+
+### Motivation
+
+This project's motivation is to conduct a research about NBA's 3 point revolution.There is a fact that games' scores are much higher than prior years and Center players are taking more 3 point shots comparing to 2010's.I would like to see that if this situation affects the games' total score.
+
+
 
 ### Datasets
 
-The datas will be collected from official NBA website and website basketball reference (https://www.basketball-reference.com)
+The datas will be collected from NBA API Library.
 
 In the project the collected datas will be:
 
@@ -15,9 +21,12 @@ In the project the collected datas will be:
 - **Average three pointer attempts per year for each team**
 - **Average three pointer made per year for each team**
 - **Average points per game for each team**
+- **Average three pointer attempts by positions**
 
-### Research Question:
-**Does the evolution of positional play (specifically the increase in 3-point attempts by all positions) correlate with higher total game scores over the NBA's history (1980-2025)?**
+### Research Questions:
+**Does the evolution of positional play (specifically the increase in 3-point attempts by all positions) correlate with higher total game scores over the NBA's history (2010-2025)?**
+
+**Do 3 point shot attempts have correlation with higher game scores between 2010-2025?**
 
 
 ## Hypothesis Testing
