@@ -36,3 +36,6 @@ There is no statistically significant relationship between the increase in 3-poi
 
 **Alternative Hypothesis ($H_1$):**
 There is a significant positive correlation between the volume of 3-point shots taken by non-guard positions and the total game scores, suggesting that the "positional revolution" has fundamentally inflated game outcomes over the decades.
+
+
+Since P-Score<0.001 and Correlation Rate = 0.85, we can successfully reject the Null Hypothesis.
