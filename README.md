@@ -24,7 +24,7 @@ In the project the collected datas will be:
 - **Average three pointer attempts by positions**
 
 ### Research Questions:
-**Does the evolution of positional play (specifically the increase in 3-point attempts by all positions) correlate with higher total game scores over the NBA's history (2010-2025)?**
+**Does the evolution of positional play correlate with higher total game scores over the last decade in NBA? (2010-2025)?**
 
 **To what extent has the traditional definition of the "Center" position blurred into "Forward" roles due to the increase in shooting volume?**
 
