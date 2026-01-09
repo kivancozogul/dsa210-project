@@ -1,5 +1,5 @@
 
-# Effect of 3 point shot attempts on total game score
+# Effect of 3 Point Shot Attempts on Total Game Score
 
 ## Project Overview
 
@@ -13,7 +13,7 @@ This project's motivation is to conduct a research about NBA's 3 point revolutio
 
 ### Datasets
 
-The datas will be collected from NBA API Library.
+The datas will be collected from NBA API Library and basketballreference.com.
 
 In the project the collected datas will be:
 
@@ -25,6 +25,8 @@ In the project the collected datas will be:
 
 ### Research Questions:
 **Does the evolution of positional play (specifically the increase in 3-point attempts by all positions) correlate with higher total game scores over the NBA's history (2010-2025)?**
+
+**To what extent has the traditional definition of the "Center" position blurred into "Forward" roles due to the increase in shooting volume?**
 
 **Do 3 point shot attempts have correlation with higher game scores between 2010-2025?**
 
